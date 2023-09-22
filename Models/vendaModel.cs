@@ -24,6 +24,6 @@ public class VendaModel
     //por um cliente). Portanto, a classe Venda terá propriedades que representam o Produto
     //associado e o Cliente associado.
     
-    public ProdutoModel Produto { get; set; }
-    public ClienteModel Cliente { get; set; }
+    public ProdutoModel? Produto { get; set; }
+    public ClienteModel? Cliente { get; set; }
 }

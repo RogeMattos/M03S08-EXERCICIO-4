@@ -10,7 +10,7 @@ public class ProdutoModel
     public int Id { get; set; }
 
     [Column(TypeName = "VARCHAR"), Required, StringLength(250)]
-    public string Nome { get; set; }
+    public string? Nome { get; set; }
 
     [Column(TypeName = "decimal(18, 2)")] // Decimal com duas casas decimais
     public decimal Preco { get; set; }
@@ -21,5 +21,5 @@ public class ProdutoModel
     // Um Produto pode estar relacionado a várias Vendas (um para muitos).
     // Isso significa que o mesmo produto pode ser vendido várias vezes para 
     // diferentes clientes. Portanto, a classe Produto terá uma coleção de Vendas.
-    public virtual ICollection<VendaModel> Vendas { get; set; }
+    public virtual ICollection<VendaModel>? Vendas { get; set; }
 }
