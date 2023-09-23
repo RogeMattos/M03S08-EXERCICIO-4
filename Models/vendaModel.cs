@@ -25,5 +25,6 @@ public class VendaModel
     //associado e o Cliente associado.
     
     public ProdutoModel? Produto { get; set; }
+    
     public ClienteModel? Cliente { get; set; }
 }
