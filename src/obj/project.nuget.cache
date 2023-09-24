@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0giTpH5jWHT6XOdKJIICMlGuD50lXV7OHG+clTZKPAk/k6VVVBH7qLbxMZlIhuobL+Cw403l+eFnMJIFVXWt9A==",
+  "dgSpecHash": "wiIbhT7QW4Prr8V6HjjqwsNQKD9QtqUvptTYpdqUGNWXRzpbc81+SqoFjTwNNnHSOBnuQR38m8tSvit1twzFvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Crud\\M03S08-EXERCICIOS\\Semana_08.csproj",
+  "projectFilePath": "C:\\Users\\rogem\\OneDrive\\Área de Trabalho\\Módulo 3\\Semana 08 - Ex_04\\M03S08-EXERCICIO-4\\Semana_08.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rogem\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rogem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
